@@ -223,11 +223,11 @@ export function ImprovedHeroSection() {
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-6xl">
-              The future of storytelling has arrived
+              Spark Wonder, Ensure Safety
             </h1>
             <p className="mt-6 text-lg leading-8 text-muted-foreground">
-              Build rich and immersive stories where your child&apos;s
-              imagination makes them the star of their own adventure
+             Empowering young minds with playful AI solutions, carefully crafted for K-12 
+            learning environments.
             </p>
             <div className="mt-10 flex flex-col items-center justify-center gap-y-6">
               {status && (
