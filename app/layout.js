@@ -17,7 +17,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Plaiful.com",
-  description: "Responsible AI",
+  description: "Empowering young minds with playful AI solutions, carefully crafted for K-12 learning environments.",
 };
 
 export default function RootLayout({ children }) {
